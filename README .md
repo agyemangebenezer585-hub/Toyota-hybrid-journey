@@ -5,14 +5,14 @@
 
 ##  About This Journey
 Mechanical Engineering L200 student at Ho Technical University, Ghana. 
-Building my path to MEXT Scholarship to TTI Nagoya → Toyota Hybrid Systems Development.
+Building my path to MEXT Scholarship to TTI Nagoya to Toyota Hybrid Systems Development.
 
 Documenting daily progress in Python, MATLAB/Simulink, and Hybrid ECU Logic.
 
 ##  Learning Roadmap (P1-P5)
 
 **P2: EV Mode Logic** 
-- Battery SOC 70% to 75% → EV Mode decision
+- Battery SOC 70% to 75% - EV Mode decision
 - Python: Booleans, if-else
 
 **P3: SOC Battery Protection** 
