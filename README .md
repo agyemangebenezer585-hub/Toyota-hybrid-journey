@@ -5,7 +5,7 @@
 
 ##  About This Journey
 Mechanical Engineering L200 student at Ho Technical University, Ghana. 
-Building my path to MEXT Scholarship → TTI Nagoya → Toyota Hybrid Systems Development.
+Building my path to MEXT Scholarship to TTI Nagoya → Toyota Hybrid Systems Development.
 
 Documenting daily progress in Python, MATLAB/Simulink, and Hybrid ECU Logic.
 
